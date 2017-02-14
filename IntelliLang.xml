@@ -5,5 +5,13 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SCSS" injector-id="js">
+      <display-name>styled-components</display-name>
+      <prefix>dummy {</prefix>
+      <suffix>}</suffix>
+      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("keyframes\\`(.*?)\\`"))]]></place>
+      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\(.*?\\)\\`(.*?)\\`"))]]></place>
+      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
+    </injection>
   </component>
 </application>
