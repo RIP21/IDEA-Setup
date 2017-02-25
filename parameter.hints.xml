@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.junit.jupiter.api.Assertions.assertTrue(condition)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
