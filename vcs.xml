@@ -14,8 +14,16 @@
           <option name="url" value="https://gitlab.com/RIP21/react-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zxbodya/angular-webpack-seed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kitconcept/webpack-starter-angular.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dev\Projects\Work" />
+    <option name="cloneParentDir" value="C:\Dev\Projects\Others" />
   </component>
 </application>
