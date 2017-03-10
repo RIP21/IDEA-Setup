@@ -26,9 +26,17 @@
           <option name="url" value="https://github.com/preboot/angularjs-webpack.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://rip212@bitbucket.org/Medelm/grocerycop-website-3.1-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://rip212@bitbucket.org/Medelm/grocerycop-website-3.1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dev\Projects\Others" />
+    <option name="cloneParentDir" value="C:\Dev\Projects\Work" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Dev\Projects\Others" />
