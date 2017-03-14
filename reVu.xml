@@ -1,0 +1,13 @@
+<application>
+  <component name="revuAppSettings">
+    <option name="issueStatusColors">
+      <map>
+        <entry key="TO_RESOLVE" value="#efb7a4" />
+        <entry key="RESOLVED" value="#b7dfb5" />
+        <entry key="REOPENED" value="#ef8059" />
+        <entry key="CLOSED" value="#bfbfbf" />
+      </map>
+    </option>
+    <option name="login" value="RIP21" />
+  </component>
+</application>
