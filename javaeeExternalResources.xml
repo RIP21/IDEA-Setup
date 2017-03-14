@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="C:/Program Files/Java/jdk1.8.0_102/jre/bin/file:/C:/Users/Andrii_Los/.IntelliJIdea2016.3/config/plugins/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
+  </component>
+</application>
