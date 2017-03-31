@@ -42,6 +42,10 @@
           <option name="url" value="https://rip212@bitbucket.org/Medelm/grocerycop-website-3.1-html-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.sami.int.thomsonreuters.com/eikon-commodities/downloadmanager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Dev\Projects\Work" />
