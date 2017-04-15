@@ -3,7 +3,6 @@
     <option name="autoSaveIfInactive" value="true" />
     <option name="inactiveTimeout" value="5" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="autoSyncFiles" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
