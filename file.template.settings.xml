@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Component - React Styled.js" reformat="false" live-template-enabled="false" />
+      <template name="Component Stateless - React.js" reformat="false" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
