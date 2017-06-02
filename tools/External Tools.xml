@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Prettify" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Prettify" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Dev\Projects\Work\grocerycop-website-3.1-ui\node_modules\.bin\prettier.cmd" />
       <option name="PARAMETERS" value="--write --print-width 120 $FilePathRelativeToProjectRoot$" />
