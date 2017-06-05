@@ -62,9 +62,13 @@
           <option name="url" value="https://bitbucket.org/Medelm/generic-componentsui" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/100notes/comments-component.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dev\Projects\Work" />
+    <option name="cloneParentDir" value="C:\Dev\Projects\Others" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/Dev/Projects/Others" />
