@@ -1,5 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="Tool_External Tools_Prettify">
+  <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
 </keymap>
