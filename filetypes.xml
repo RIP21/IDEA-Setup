@@ -7,6 +7,7 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="Alert" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="ImgUnavailable" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="responseSelector" type="PLAIN_TEXT" />
     </extensionMap>
