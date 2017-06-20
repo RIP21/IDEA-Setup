@@ -70,9 +70,13 @@
           <option name="url" value="https://github.com/RIP21/CRA-components-development.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/kitchry/kitchry-components.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Dev\Projects\Pet" />
+    <option name="cloneParentDir" value="C:\Dev\Projects\Work" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/Dev/Projects/Others" />
