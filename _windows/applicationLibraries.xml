@@ -5,4 +5,37 @@
       <gwt-sdk url="file://C:/Dev/Tools/BuildTools/gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.7.0" />
     </gwt-sdk-list>
   </component>
+  <component name="libraryTable">
+    <library name="Python 3.4.0 (C:\Python34\python.exe) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python34/DLLs" />
+        <root url="file://C:/Python34/Lib" />
+        <root url="file://C:/Python34" />
+        <root url="file://C:/Python34/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-1442825926" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python34/DLLs" />
+        <root url="file://C:/Python34/Lib" />
+        <root url="file://C:/Python34" />
+        <root url="file://C:/Python34/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-1442825926" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
 </application>
