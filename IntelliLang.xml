@@ -1,17 +1,13 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="SCSS" injector-id="js">
       <display-name>styled-components</display-name>
-      <prefix>dummy {</prefix>
+      <prefix>some_component {</prefix>
       <suffix>}</suffix>
-      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("keyframes\\`(.*?)\\`"))]]></place>
-      <place><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\(.*?\\)\\`(.*?)\\`"))]]></place>
-      <place disabled="true"><![CDATA[jsLiteralExpression().withText(string().matchesBrics("styled\\..*?\\`(.*?)\\`"))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(jsArgument("css", 0))]]></place>
+      <place><![CDATA[jsLiteralExpression().and(jsArgument("styled", 0))]]></place>
+      <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("css")))]]></place>
+      <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("styled")))]]></place>
     </injection>
   </component>
 </application>
