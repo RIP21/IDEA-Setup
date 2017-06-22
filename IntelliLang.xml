@@ -7,6 +7,7 @@
       <place><![CDATA[jsLiteralExpression().and(jsArgument("css", 0))]]></place>
       <place><![CDATA[jsLiteralExpression().and(jsArgument("styled", 0))]]></place>
       <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("css")))]]></place>
+      <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("injectGlobal")))]]></place>
       <place><![CDATA[jsLiteralExpression().withParent(psiElement().withText(string().startsWith("styled")))]]></place>
     </injection>
   </component>
