@@ -82,9 +82,13 @@
           <option name="url" value="https://github.com/RIP21/ololos-blog-react-native.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pivotinc/pivot-desktop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Pet" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/StartupCraft" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Projects/Work/itv-cms-renderer" />
