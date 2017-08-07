@@ -1,6 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="8" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="33" />
+    <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
