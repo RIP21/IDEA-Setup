@@ -96,9 +96,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/Bahaus" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Projects/Work/itv-cms-renderer" />
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/Freelance" />
   </component>
 </application>
