@@ -102,6 +102,10 @@
           <option name="url" value="https://andriilosgp@bitbucket.org/grand-parade/itv-website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://andriilosgp@bitbucket.org/grand-parade/itv-cms-renderer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/GP" />
