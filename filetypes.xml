@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern="CongratsOverlay" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
