@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/RIP21/react-dev-environment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RIP21/with-class-names.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/Pet" />
