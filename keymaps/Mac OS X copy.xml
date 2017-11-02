@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
